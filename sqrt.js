@@ -1,1 +1,1 @@
-print(Math.sqrt(9));
+print(Math.sqrt(32));
